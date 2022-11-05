@@ -1,11 +1,12 @@
 # CEC-Ranking
-Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking. This project is heavily based on the [RCPS](https://github.com/aangelopoulos/rcps) library.
+Certified Error Control of Candidate Set Pruning for Two-Stage Relevance Ranking (EMNLP 2022 Oral).
 
 ## Installation
 ```
 pip install -r requirement.txt
 ```
 You also need to install [torch](https://pytorch.org/get-started/locally/) according to your configuration.
+This project is also based on the [RCPS](https://github.com/aangelopoulos/rcps) library.
 
 ## Data
 ```
